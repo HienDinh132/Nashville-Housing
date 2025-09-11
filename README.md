@@ -1,0 +1,2 @@
+- Link Raw Data Nashville Housing Project: https://drive.google.com/file/d/1PLtaEMqoY1M-bPLERLTXFA15vjNqtJbq/view?usp=sharing
+- Link Power BI Nashville Housing Project: https://app.powerbi.com/view?r=eyJrIjoiZWM4NzA3MTUtNmZiMS00NjU1LWFjMDctYTc3ZWMyMTg4ZmRhIiwidCI6ImVmMmJmNjJhLTgxMDgtNGYxMS1hZDcxLWQ2MmU1ZDM2MDBmOCIsImMiOjEwfQ%3D%3D
